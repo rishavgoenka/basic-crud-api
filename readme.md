@@ -2,9 +2,13 @@
 ## RESTful api for basic crud operations
   
 -- clone the repo
+
 -- npm install
+
 -- set up your mongodb connection
+
 -- node index.js
+
 
 api endpoints at http://localhost:3000
 
