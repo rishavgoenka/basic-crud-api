@@ -1,6 +1,6 @@
 const express = require('express');
 const connectDB = require('./db');
-const travellersRoute = require('./routes/travellers');
+const travellersRoute = require('./src/routes/travellerRoutes');
 
 const app = express();
 
